@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>RECIPE BOOK</title>
+    <style media="screen">
+      .oree{
+        border:5px solid maroon;
+        width: 1000px;
+        height: 1900px;
+        margin: 0 auto;
+        border-radius: 20px;
+      }
+      .over{
+        text-align:center;
+        text-decoration:underline;
+      }
+      .faree{
+        font-style:italic;
+      }
+      .abdul{
+        text-align:justify;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="oree">
+      <h1 class="over">OVERVIEW OF PRAGUE</h1>
+      <p class="abdul">
+       <em><strong>Prague</strong></em> is mostly famous for being the capital of Czech Republic, therefore
+       being called the Heart of Europe due to Czech Republic being the heart of
+       Europe. Architecture is very well-preserved in the entire Czech Republic so
+       tourists mostly think those beautiful buildings are only in our capital city.
+       <em><strong>Prague</strong></em> is famous for many styles of architecture from the Gothic through
+       cubist to the controversial 1996 ultra modern <em>‘Dancing House’</em>. It is known
+       for unique historical monuments too: <em>the oldest astronomical clock in the
+       world that still functions (installed in 1410) and the Charles Bridge,
+       a pedestrian bridge lined with Baroque statues that spans the Vltava River</em>.</p>
+
+      <h2 class="over">LIST OF PLACES TO VISIT IN PRAGUE</h2>
+      <ol>
+        <li class="faree">INFANT JESUS OF PRAGUE</li><p></p>
+        <img src="..\pics\infant.jpg" alt="infant of jesus" width='300px'>
+        <p class="abdul">Located in the Mala Strana in the heart of the city, the Infant Jesus of Prague (also known as the Child of Prague)
+           is a Roman Catholic statue of Jesus Christ as an infant. Everyday hundreds of believers pay a visit to this shrine
+           to pray, bow and make wishes hoping that they will come true. The statue itself is encased in an ornate gilded shrine
+           and while the origin of the figure is unknown, it has been dated back to the 16th Century.</p>
+
+        <li class="faree">OLD TOWN SQUARE</li><p></p>
+        <img src="..\pics\old town.jpg" alt="old town" width='300px'>
+        <p class="abdul">Despite Prague’s lively history of invasions, the Old Town Square has remained relatively untouched since the 10th
+           Century. Swarms of tourists crowd the historical streets, packing out the alfresco restaurants everyday. The square
+           itself is the perfect place to admire the wonderful architecture Prague has to offer and if that isn’t your thing
+           then the various street performers, musicians and merchants that line the streets here will certainly keep you
+           entertained.</p>
+
+        <li class="faree">CHARLES BRIDGE</li><p></p>
+        <img src="..\pics\bridge.jpg" alt="charles bridge"  width='300px'>
+        <p class="abdul">Whoever said that “the best things in life are free” may well have been referring to the Charles Bridge in Prague.
+           A simple walk across the 14th Century bridge is one of the most enjoyable and memorable experiences of visiting Prague.
+           The bridge was commissioned in 1357 by Charles IV to replace an older bridge that had been washed away by floods.</p>
+
+        <li class="faree">PRAGUE CASTLE</li><p></p>
+        <img src="..\pics\castle.jpg" alt="prague castle"  width='300px'>
+        <p class="abdul">Located in Hradcany (the Castle district), Prague Castle is without a doubt the city’s most popular tourist
+           attraction and it is easy to see why. The breath-taking castle has traditionally been the seat of Czech rulers and
+           is today the official residence of the president. Entry to the grounds of the castle are free although many buildings
+           such as the St Vitus cathedral, Basillica of St George and Golden Lane can be visited with a combined entry ticket.</p>
+
+        <li class="faree">GOLDEN LANE</li><p></p>
+        <img src="..\pics\lane.jpg" alt="golden lane"  width='300px'>
+        <p class="abdul">Also located within the grounds of the castle is the mysterious Golden Lane, so called because, according to legends,
+           alchemists had to look on this street to find a reaction to turn ordinary materials into gold. Despite the streets name,
+           it is debated whether alchemists ever worked or lived here. Czech-Jewish writer Franz Kafka used a house on the street
+           for around two years as he enjoyed the peaceful environment it provided whilst writing.</p>
+      </ol>
+
+    </div>
+  </body>
+</html>
